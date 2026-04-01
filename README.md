@@ -43,13 +43,10 @@ Customer_Segmentation/
 ├── models/
 │   ├── kmeans_model.pkl
 │   ├── scaler.pkl
-│
-├── training/
 │   ├── elbow_method.py
 │   ├── kmeans_training.py
 │
 ├── data/
-│   ├── OnlineRetail.csv
 │   ├── rfm_dataset.csv
 │
 ├── README.md
